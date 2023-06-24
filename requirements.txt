@@ -1,0 +1,7 @@
+Flask==2.3.2
+bs4==0.0.1
+flask-migrate==4.0.4
+sqlalchemy==2.0.15
+psycopg2-binary==2.9.6
+bleach==6.0.0
+lxml==4.9.2
